@@ -1,17 +1,20 @@
 # Project Title
-Insert the name of your project
+Sense Earth
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Bo Huang @bohuang3d
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+Humans express feelings and intentions through writing, sounds, and images. Anyone can utter 'come back soon', but the tone, intensity, and style bless the phrase with life. Moreover, the act is often accompanied by flowers, cards, and momentos as mood setters and proof of dedication.
+
+While we project feelings to these physical items, unless they are personally crafted, they are artifacts of mass production, disconnected from. Just as our acts are manifestations of our feelings, ideally, these items would also be the emotion's natural metamorphosis.
+
+To fuse emotions into mood setters such as flower, we treat the feeling as a seed and the expressed words, sounds as growth stimulus. Stimuling as fertilizer and sun light, we raise the seed virtually to a flower, blooming emotion's words, sounds literally to recipient.
+
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
+http://SenseEarth.com
 
-[Example Link](http://www.google.com "Example Link")
 
 ## Example Code
 NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
