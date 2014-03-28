@@ -1,5 +1,5 @@
 # Project Title
-Sense Earth
+A Monument at Sea
 
 ## Authors
 - Bo Huang @bohuang3d
@@ -9,7 +9,7 @@ Humans express feelings and intentions through writing, sounds, and images. Anyo
 
 While we project feelings to these physical items, unless they are personally crafted, they are artifacts of mass production, disconnected from. Just as our acts are manifestations of our feelings, ideally, these items would also be the emotion's natural metamorphosis.
 
-To fuse emotions into mood setters such as flower, we treat the feeling as a seed and the expressed words, sounds as growth stimulus. Stimuling as fertilizer and sun light, we raise the seed virtually to a flower, blooming emotion's words, sounds literally to recipient.
+This project applies these concepts as a tribute to the downing of flight MH370
 
 
 ## Link to Prototype
