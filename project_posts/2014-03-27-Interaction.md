@@ -2,8 +2,13 @@ In the middle of the ocean the monument may stand lonely. We can communicate to 
 
 Thus we intend to utilize SenseEarth.com's service to empower interested parties to visit the monument, and as would be fitting for any formal and commemorative occasion, deliver one's blessings with flowers.
 
-Visualization example of a sign (corresponding to monument perhaps), surrounded by flower field:
+Thus one plants flowers to grow over time, cradling the messages they keep.
+![Monument](../project_images/flower_size.png?raw=true "Monument")
+
+When they bloom their emotions, they surround this sign example (corresponding to monument perhaps), forming a field:
 ![Monument](../project_images/flower_sign.png?raw=true "Monument")
-We will request these digital contributions and present a digital ensemble:
+
+We will programmatically request these digital contributions and present an enhanced digital ensemble:
 ![Monument](../project_images/flower_sea.png?raw=true "Monument")
 
+With dedications we hope memories will be sustained for posterity.

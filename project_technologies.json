@@ -1,10 +1,10 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Google Map, Google Geolocation"
         ],
         "platforms": [
-            "insert platforms"
+            "Web, mobile"
         ],
         "toolkits": [
             "insert toolkits"
